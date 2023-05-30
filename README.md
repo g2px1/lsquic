@@ -174,6 +174,7 @@ The library has been tested on the following platforms:
   - i386
 - MacOS
   - x86_64
+  - Apple Silicon (M1)
 - iOS
   - ARM
 - Android
